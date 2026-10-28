@@ -1,16 +1,19 @@
-## Hi there 👋
+# Bonjour, je suis Bérénice 
 
-<!--
-**BASSOGBA/BASSOGBA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis Data Analyst en alternance au service Audit de la Banque Populaire Grand Ouest, dans le cadre de mon Mastère Big Data et IA à Sup de Vinci (Nantes).
 
-Here are some ideas to get you started:
+Avant la data, j'ai travaillé quelques années en qualité, dans l'agroalimentaire. J'y ai pris l'habitude de vérifier la fiabilité des chiffres avant de les présenter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ce que je fais
+
+Je prépare les données pour les missions d'audit : requêtes SQL, contrôle de la qualité des données et tableaux de bord Power BI. En formation, je travaille aussi sur des projets de data engineering.
+
+## Mes outils
+
+**Analyse :** SQL, Python (Pandas, scikit-learn), Power BI (Power Query, DAX), Excel et VBA
+
+**Data engineering :** PostgreSQL, Airflow, PySpark, Databricks, MinIO, Docker, Git
+
+## Me contacter
+
+[LinkedIn](https://www.linkedin.com/in/berenice-assogba/)
